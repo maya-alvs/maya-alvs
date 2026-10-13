@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**maya-alvs/maya-alvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Olá, eu sou a Maya.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Desenvolvimento • Criatividade • Aprendizado*
+
+Um espaço para ideias, experiências e novos aprendizados.
+
+</div>
+
+---
+
+### Sobre mim
+
+Sou estudante de **Desenvolvimento de Sistemas** e tenho o sonho de seguir carreira na **Odontologia**.
+
+Gosto de explorar novas possibilidades, desenvolver projetos pessoais e transformar o aprendizado em algo concreto.
+
+Acredito que o conhecimento não precisa ficar limitado a uma única área. Por isso, este espaço reúne um pouquinho da minha trajetória, das minhas ideias e da minha evolução.
+
+### Tecnologias e ferramentas
+
+*Em construção — reunindo as tecnologias que fazem parte da minha jornada.*
+
+### Projetos pessoais
+
+Aqui compartilho projetos desenvolvidos para aprender, experimentar e transformar ideias em realidade.
+
+---
+
+<div align="center">
+
+*Feito com dedicação, curiosidade e vontade de aprender. ♡*
+
+</div>
